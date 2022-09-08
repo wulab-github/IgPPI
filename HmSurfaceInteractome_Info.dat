@@ -1,0 +1,1011 @@
+UniProt Name Gene Name  Protein SuperFamily
+Q9NP84       TNFRSF12A  TNFSF                      
+Q02223       TNFRSF17   TNFSF                      
+P13236       CCL4       Misc selected              
+Q96RJ3       TNFRSF13C  TNFSF                      
+P04216       THY1       IgSF                       
+O14931       NCR3       IgSF                       
+Q6IA17       SIGIRR     IgSF                       
+A8MXK1       VSTM5      IgSF                       
+Q6UX27       VSTM1      IgSF                       
+O75871       CEACAM4    IgSF                       
+Q495A1       TIGIT      IgSF                       
+Q9Y6W8       ICOS       IgSF                       
+O75121       MFAP3L     IgSF                       
+P40198       CEACAM3    IgSF                       
+Q8NET5       NFAM1      IgSF                       
+Q08722       CD47       IgSF                       
+P25189       MPZ        IgSF                       
+O95866       MPIG6B     ITIM                       
+Q01151       CD83       IgSF                       
+Q16653       MOG        IgSF                       
+Q7Z692       CEACAM19   IgSF                       
+O95976       IGSF6      IgSF                       
+P16410       CTLA4      IgSF                       
+Q96PL5       ERMAP      IgSF                       
+O95297       MPZL1      IgSF                       
+Q6UWV2       MPZL3      IgSF                       
+Q7Z6A9       BTLA       IgSF                       
+O60487       MPZL2      IgSF                       
+Q96BF3       TMIGD2     IgSF                       
+Q9UNG2       TNFSF18    TNFSF                      
+P55082       MFAP3      IgSF                       
+O60939       SCN2B      IgSF                       
+O95971       CD160      IgSF                       
+Q6ISS4       LAIR2      IgSF                       
+Q8IWT1       SCN4B      IgSF                       
+P23510       TNFSF4     TNFSF                      
+A1L1A6       IGSF23     IgSF                       
+A8K4G0       CD300LB    IgSF                       
+P10747       CD28       IgSF                       
+Q96E93       KLRG1      ITAM                       
+Q8TDQ1       CD300LF    IgSF                       
+Q969Z4       RELT       TNFSF                      
+Q9NY72       SCN3B      IgSF                       
+Q9Y5U5       TNFRSF18   TNFSF                      
+Q9HAV5       EDA2R      TNFSF                      
+P26715       KLRC1      ITAM                       
+Q9NS68       TNFRSF19   TNFSF                      
+Q07699       SCN1B      IgSF                       
+P01579       IFNG       Misc selected              
+Q6GTX8       LAIR1      IgSF                       
+Q86SU0       ILDR1      IgSF                       
+P41159       LEP        Misc selected              
+Q6UXZ3       CD300LD    IgSF                       
+Q86YW5       TREML1     IgSF                       
+P25445       FAS        TNFSF                      
+P10966       CD8B       IgSF                       
+Q15116       PDCD1      IgSF                       
+A6NJW9       CD8B2      IgSF                       
+Q6UXN2       TREML4     IgSF                       
+O14763       TNFRSF10B  TNFSF                      
+P09564       CD7        IgSF                       
+P32970       CD70       TNFSF                      
+Q496F6       CD300E     IgSF                       
+Q9NZC2       TREM2      IgSF                       
+Q9UBN6       TNFRSF10D  TNFSF                      
+Q8IW00       VSTM4      IgSF                       
+P01732       CD8A       IgSF                       
+Q9UNE0       EDAR       TNFSF                      
+Q9H7M9       VSIR       IgSF                       
+Q07011       TNFRSF9    TNFSF                      
+Q08708       CD300C     IgSF                       
+Q9UGN4       CD300A     IgSF                       
+O95998       IL18BP     IgSF                       
+Q92956       TNFRSF14   TNFSF                      
+O14836       TNFRSF13B  TNFSF                      
+Q71H61       ILDR2      IgSF                       
+Q9H106       SIRPD      IgSF                       
+Q9UMR7       CLEC4A     ITAM                       
+Q86X29       LSR        IgSF                       
+Q9NPF7       IL23A      Misc selected              
+O95944       NCR2       IgSF                       
+P01374       LTA        TNFSF                      
+P26842       CD27       TNFSF                      
+P32971       TNFSF8     TNFSF                      
+Q9UKJ0       PILRB      IgSF                       
+P25942       CD40       TNFSF                      
+P31994       FCGR2B     IgSF                       
+Q93038       TNFRSF25   TNFSF                      
+P01375       TNF        TNFSF                      
+P80188       LCN2       Misc selected              
+Q9UKJ1       PILRA      IgSF                       
+P48023       FASLG      TNFSF                      
+O75015       FCGR3B     IgSF                       
+P12319       FCER1A     IgSF                       
+Q96N03       VSTM2L     IgSF                       
+P31995       FCGR2C     IgSF                       
+Q8TDQ0       HAVCR2     IgSF                       
+O43557       TNFSF14    TNFSF                      
+Q9BXN2       CLEC7A     ITAM                       
+P05231       IL6        Misc selected              
+Q92637       FCGR1B     IgSF                       
+Q9Y6Q6       TNFRSF11A  TNFSF                      
+P12318       FCGR2A     IgSF                       
+P06729       CD2        IgSF                       
+Q9BZM4       ULBP3      IgSF                       
+Q9NP99       TREM1      IgSF                       
+P43489       TNFRSF4    TNFSF                      
+P19256       CD58       IgSF                       
+Q9BZM5       ULBP2      IgSF                       
+Q9BZM6       ULBP1      HLA                        
+P19438       TNFRSF1A   TNFSF                      
+Q5VY80       RAET1L     IgSF                       
+Q6H3X3       RAET1G     IgSF                       
+P09326       CD48       IgSF                       
+Q6UXZ0       TMIGD1     IgSF                       
+P08637       FCGR3A     IgSF                       
+Q9UNN8       PROCR      HLA                        
+O95150       TNFSF15    TNFSF                      
+Q8TD07       RAET1E     IgSF                       
+Q06643       LTB        TNFSF                      
+Q6P7N7       TMEM81     IgSF                       
+P36941       LTBR       TNFSF                      
+P13598       ICAM2      IgSF                       
+O75888       TNFSF13    TNFSF                      
+Q9BQ51       PDCD1LG2   IgSF                       
+P41217       CD200      IgSF                       
+Q14002       CEACAM7    IgSF                       
+Q9NQ25       SLAMF7     IgSF                       
+Q9UIB8       CD84       IgSF                       
+P41273       TNFSF9     TNFSF                      
+Q96DU3       SLAMF6     IgSF                       
+P24071       FCAR       IgSF                       
+Q3KPI0       CEACAM21   IgSF                       
+Q86YD3       TMEM25     IgSF                       
+O14798       TNFRSF10C  TNFSF                      
+O43508       TNFSF12    TNFSF                      
+Q14CZ8       HEPACAM    IgSF                       
+P33681       CD80       IgSF                       
+Q7Z6M3       MILR1      IgSF                       
+Q9BZW8       CD244      IgSF                       
+P57087       JAM2       IgSF                       
+Q9BX67       JAM3       IgSF                       
+Q86XK7       VSIG1      IgSF                       
+Q9P0V8       SLAMF8     IgSF                       
+Q9Y624       F11R       IgSF                       
+Q8TAG5       VSTM2A     IgSF                       
+Q7Z3S9       NOTCH2NLA  NOTCHSF                    
+Q99795       GPA33      IgSF                       
+P29965       CD40LG     TNFSF                      
+Q8TD46       CD200R1    IgSF                       
+O00220       TNFRSF10A  TNFSF                      
+Q13410       BTN1A1     IgSF                       
+Q6Q8B3       CD200R1L   IgSF                       
+P26992       CNTFR      IgSF                       
+Q13291       SLAMF1     IgSF                       
+Q8N109       KIR2DL5A   IgSF                       
+Q8NHK3       KIR2DL5B   IgSF                       
+Q9H6B4       CLMP       IgSF                       
+P78310       CXADR      IgSF                       
+Q14773       ICAM4      IgSF                       
+Q96A28       SLAMF9     IgSF                       
+Q9Y275       TNFSF13B   TNFSF                      
+O00478       BTN3A3     IgSF                       
+P78410       BTN3A2     IgSF                       
+Q5DX21       IGSF11     IgSF                       
+Q5SQ64       LY6G6F     IgSF                       
+Q96AP7       ESAM       IgSF                       
+Q96KV6       BTN2A3P    IgSF                       
+B6A8C7       TARM1      IgSF                       
+Q6UXE8       BTNL3      IgSF                       
+Q7KYR7       BTN2A1     IgSF                       
+Q96IQ7       VSIG2      IgSF                       
+Q9NZQ7       CD274      IgSF                       
+Q6UX41       BTNL8      IgSF                       
+Q99706       KIR2DL4    IgSF                       
+I3L0I9       KIR2DP1    IgSF                       
+P08138       NGFR       TNFSF                      
+Q6UXG8       BTNL9      IgSF                       
+Q02297       NRG1       IgSF                       
+P42081       CD86       IgSF                       
+P43626       KIR2DL1    IgSF                       
+P43627       KIR2DL2    IgSF                       
+P43628       KIR2DL3    IgSF                       
+P43631       KIR2DS2    IgSF                       
+P43632       KIR2DS4    IgSF                       
+Q14952       KIR2DS3    IgSF                       
+Q14953       KIR2DS5    IgSF                       
+Q14954       KIR2DS1    IgSF                       
+O00481       BTN3A1     IgSF                       
+A6NI73       LILRA5     IgSF                       
+A8MVZ5       BTNL10     IgSF                       
+P15260       IFNGR1     IgSF                       
+Q6PCB8       EMB        IgSF                       
+Q6UXG3       CD300LG    IgSF                       
+Q9NSI5       IGSF5      IgSF                       
+Q8WVV5       BTN2A2     IgSF                       
+O60667       FCMR       IgSF                       
+A6NLU5       VSTM2B     IgSF                       
+P20333       TNFRSF1B   TNFSF                      
+Q7Z7D3       VTCN1      IgSF         
+Q15762       CD226      IgSF                       
+O76036       NCR1       IgSF                       
+O75144       ICOSLG     IgSF                       
+Q68D85       NCR3LG1    IgSF                       
+Q8NHJ6       LILRB4     IgSF                       
+P16422       EPCAM      IgSF                       
+P20138       CD33       IgSF                       
+Q5VU13       VSIG8      IgSF                       
+P21854       CD72       ITAM                       
+P50591       TNFSF10    TNFSF                      
+Q6ZMC9       SIGLEC15   IgSF                       
+Q9HCN6       GP6        IgSF                       
+O14788       TNFSF11    TNFSF                      
+Q5T2D2       TREML2     IgSF                       
+Q9UHF1       EGFL7      NOTCHSF                    
+U5U6P8       ICAM4      IgSF                       
+Q8WX77       IGFBPL1    IgSF                       
+Q5JXA9       SIRPB2     IgSF                       
+Q16270       IGFBP7     IgSF                       
+Q86YT9       JAML       IgSF                       
+Q8IYS5       OSCAR      IgSF                       
+Q9Y279       VSIG4      IgSF                       
+W5XKT8       SPACA6     IgSF                       
+O95727       CRTAM      IgSF                       
+Q96D42       HAVCR1     IgSF                       
+O95407       TNFRSF6B   TNFSF                      
+P15391       CD19       IgSF                       
+Q8IYV9       IZUMO1     IgSF                       
+P06734       FCER2      IgSF                       
+Q96I82       KAZALD1    IgSF                       
+P12314       FCGR1A     IgSF                       
+P25311       AZGP1      HLA                        
+P80370       DLK1       NOTCHSF                    
+Q6UY11       DLK2       NOTCHSF                    
+Q6ZN44       UNC5A      IgSF                       
+P40199       CEACAM6    IgSF                       
+Q13449       LSAMP      IgSF                       
+Q29983       MICA       IgSF                       
+Q9P121       NTM        IgSF                       
+Q29980       MICB       HLA                        
+Q7Z3B1       NEGR1      IgSF                       
+Q6DN72       FCRL6      IgSF                       
+P31997       CEACAM8    IgSF                       
+Q96H15       TIMD4      IgSF                       
+Q96LA6       FCRL1      IgSF                       
+Q14982       OPCML      IgSF                       
+O14511       NRG2       IgSF                       
+A0A0B4J1R5   KIR3DL3    IgSF                       
+Q8N743       KIR3DL3    IgSF                       
+Q13477       MADCAM1    IgSF                       
+P11465       PSG2       IgSF                       
+Q15238       PSG5       IgSF                       
+Q9UQ72       PSG11      IgSF                       
+Q8NFZ8       CADM4      IgSF                       
+P35613       BSG        IgSF                       
+A6NGN9       IGLON5     IgSF                       
+P29460       IL12B      IgSF                       
+Q8N126       CADM3      IgSF                       
+A8MWS1       KIR3DP1    IgSF                       
+Q9BS86       ZPBP       IgSF                       
+O75509       TNFRSF21   TNFSF                      
+Q13478       IL18R1     IgSF                       
+Q01638       IL1RL1     IgSF                       
+Q9Y639       NPTN       IgSF                       
+Q9GZV7       HAPLN2     IgSF                       
+Q9HB29       IL1RL2     IgSF                       
+Q6X784       ZPBP2      IgSF                       
+Q96NY8       NECTIN4    IgSF                       
+P14778       IL1R1      IgSF                       
+P43629       KIR3DL1    IgSF                       
+P43630       KIR3DL2    IgSF                       
+Q14943       KIR3DS1    IgSF                       
+A8MVW5       HEPACAM2   IgSF                       
+Q15109       AGER       IgSF                       
+O43699       SIGLEC6    IgSF                       
+Q9UM44       HHLA2      IgSF                       
+Q9BRK3       MXRA8      IgSF                       
+P15151       PVR        IgSF                       
+Q15223       NECTIN1    IgSF                       
+Q92692       NECTIN2    IgSF                       
+Q92838       EDA        TNFSF                      
+P27930       IL1R2      IgSF                       
+Q9BY67       CADM1      IgSF                       
+Q9Y336       SIGLEC9    IgSF                       
+Q9P1W8       SIRPG      IgSF                       
+Q9Y286       SIGLEC7    IgSF                       
+Q9H7L2       KIR3DX1    IgSF                       
+O95256       IL18RAP    IgSF                       
+Q9NP60       IL1RAPL2   IgSF                       
+P10915       HAPLN1     IgSF                       
+Q9NZN1       IL1RAPL1   IgSF                       
+O95185       UNC5C      IgSF                       
+O00241       SIRPB1     IgSF                       
+Q08ET2       SIGLEC14   IgSF                       
+Q5TFQ8       SIRPB1     IgSF                       
+P78324       SIRPA      IgSF                       
+Q8N3J6       CADM2      IgSF                       
+Q96S86       HAPLN3     IgSF                       
+Q86WK6       AMIGO1     IgSF                       
+P08887       IL6R       IgSF                       
+Q14626       IL11RA     IgSF                       
+Q6UXZ4       UNC5D      IgSF                       
+Q9NPH3       IL1RAP     IgSF                       
+Q9NQS3       NECTIN3    IgSF                       
+Q9NYZ4       SIGLEC8    IgSF                       
+P06127       CD5        ITIM                       
+P22455       FGFR4      IgSF                       
+Q8IZJ1       UNC5B      IgSF                       
+P22607       FGFR3      IgSF                       
+A8MTB9       CEACAM18   IgSF                       
+Q15198       PDGFRL     IgSF                       
+Q8N441       FGFRL1     IgSF                       
+P11362       FGFR1      IgSF                       
+P21802       FGFR2      IgSF                       
+A6NFU0       FAM187A    IgSF                       
+Q86SJ2       AMIGO2     IgSF                       
+P28908       TNFRSF8    TNFSF                      
+Q86WK7       AMIGO3     IgSF                       
+Q96PJ5       FCRL4      IgSF                       
+Q01974       ROR2       IgSF                       
+P01730       CD4        IgSF                       
+Q86UW8       HAPLN4     IgSF                       
+Q01973       ROR1       IgSF                       
+O00300       TNFRSF11B  TNFSF                      
+Q96LA5       FCRL2      IgSF                       
+Q8N0Z9       VSIG10     IgSF                       
+O75462       CRLF1      IgSF                       
+P11464       PSG1       IgSF                       
+Q00888       PSG4       IgSF                       
+Q13046       PSG7       IgSF                       
+Q50LG9       LRRC24     IgSF                       
+Q9BX59       TAPBPL     IgSF                       
+P55899       FCGRT      IgSF                       
+O43300       LRRTM2     IgSF                       
+Q06418       TYRO3      IgSF                       
+P04629       NTRK1      IgSF                       
+Q00887       PSG9       IgSF                       
+Q9UQ74       PSG8       IgSF                       
+P13688       CEACAM1    IgSF                       
+Q16557       PSG3       IgSF                       
+Q95460       MR1        HLA                        
+P01892       HLA-A      HLA                        
+P06126       CD1A       HLA                        
+P10321       HLA-C      HLA                        
+P13747       HLA-E      HLA                        
+P17693       HLA-G      HLA                        
+P30511       HLA-F      HLA                        
+P01889       HLA-B      HLA                        
+Q16288       NTRK3      IgSF                       
+Q30201       HFE        HLA                        
+P29017       CD1C       HLA                        
+Q16620       NTRK2      IgSF                       
+P29016       CD1B       HLA                        
+Q00889       PSG6       IgSF                       
+Q2WEN9       CEACAM16   IgSF                       
+Q9HBG7       LY9        IgSF                       
+O14498       ISLR       IgSF                       
+Q9HBW9       ADGRL4     NOTCHSF                    
+Q8N6C8       LILRA3     IgSF                       
+A6NMB1       SIGLEC16   IgSF                       
+O75022       LILRB3     IgSF                       
+Q6UY09       CEACAM20   IgSF                       
+P18627       LAG3       IgSF                       
+P59901       LILRA4     IgSF                       
+Q6PI73       LILRA6     IgSF                       
+O15389       SIGLEC5    IgSF                       
+O75460       ERN1       Misc selected              
+P30530       AXL        IgSF                       
+Q8N149       LILRA2     IgSF                       
+Q9UIR0       BTNL2      IgSF                       
+A2IXV5       MIR cl-10  IgSF                       
+Q8WWV6       FCAMR      IgSF                       
+O75023       LILRB5     IgSF                       
+Q5ZPR3       CD276      IgSF                       
+Q8NHL6       LILRB1     IgSF                       
+Q8N423       LILRB2     IgSF                       
+Q8WZ75       ROBO4      IgSF                       
+Q96ID5       IGSF21     IgSF                       
+O75019       LILRA1     IgSF                       
+A6NDA9       LRIT2      IgSF                       
+P05362       ICAM1      IgSF                       
+P17213       BPI        IgSF                       
+P18428       LBP        IgSF                       
+P32942       ICAM3      IgSF                       
+Q96PQ1       SIGLEC12   IgSF                       
+Q9NYJ7       DLL3       NOTCHSF                    
+O15146       MUSK       IgSF                       
+P04217       A1BG       IgSF                       
+Q96J84       KIRREL1    IgSF                       
+Q9HCJ2       LRRC4C     IgSF                       
+Q12866       MERTK      IgSF                       
+Q9HBW1       LRRC4      IgSF                       
+Q6UWL6       KIRREL2    IgSF                       
+Q8N6C5       IGSF1      IgSF                       
+P20916       MAG        IgSF                       
+P07333       CSF1R      IgSF                       
+P40200       CD96       IgSF                       
+P10721       KIT        IgSF                       
+P09619       PDGFRB     IgSF                       
+Q13740       ALCAM      IgSF                       
+Q6PJG9       LRFN4      IgSF                       
+Q9NR61       DLL4       NOTCHSF                    
+P16234       PDGFRA     IgSF                       
+Q6UY18       LINGO4     IgSF                       
+Q9P244       LRFN1      IgSF                       
+Q9P2V4       LRIT1      IgSF                       
+P0C6S8       LINGO3     IgSF                       
+Q96NI6       LRFN5      IgSF                       
+Q8IZU9       KIRREL3    IgSF                       
+Q9ULH4       LRFN2      IgSF                       
+P50895       BCAM       IgSF                       
+P36888       FLT3       IgSF                       
+Q7L985       LINGO2     IgSF                       
+Q96FE5       LINGO1     IgSF                       
+O95428       PAPLN      IgSF                       
+Q9BTN0       LRFN3      IgSF                       
+O00548       DLL1       NOTCHSF                    
+Q96NZ8       WFIKKN1    IgSF                       
+Q96LC7       SIGLEC10   IgSF                       
+Q96RL6       SIGLEC11   IgSF                       
+P16581       SELE       Misc selected              
+P43121       MCAM       IgSF                       
+Q9NT99       LRRC4B     IgSF                       
+Q8TEU8       WFIKKN2    IgSF                       
+Q969P0       IGSF8      IgSF                       
+Q96P31       FCRL3      IgSF                       
+Q3SXY7       LRIT3      IgSF                       
+Q6UXK2       ISLR2      IgSF                       
+A1KZ92       PXDNL      IgSF                       
+P16284       PECAM1     IgSF                       
+Q9H3T3       SEMA6B     IgSF                       
+Q9H3T2       SEMA6C     IgSF                       
+Q92626       PXDN       IgSF                       
+P40189       IL6ST      IgSF                       
+O75326       SEMA7A     IgSF                       
+Q99062       CSF3R      IgSF                       
+Q6UXK5       LRRN1      IgSF                       
+Q8IVU1       IGDCC3     IgSF                       
+Q8NFT8       DNER       NOTCHSF                    
+Q9H3W5       LRRN3      IgSF                       
+O75325       LRRN2      IgSF                       
+P01833       PIGR       IgSF                       
+O95754       SEMA4F     IgSF                       
+Q15303       ERBB4      Misc selected              
+Q9H2E6       SEMA6A     IgSF                       
+Q6WRI0       IGSF10     IgSF                       
+Q8NFY4       SEMA6D     IgSF                       
+Q9C0C4       SEMA4C     IgSF                       
+Q9NR99       MXRA5      IgSF                       
+P06731       CEACAM5    IgSF                       
+Q9H3S1       SEMA4A     IgSF                       
+Q9NTN9       SEMA4G     IgSF                       
+P20273       CD22       IgSF                       
+Q99466       NOTCH4     NOTCHSF                    
+P19320       VCAM1      IgSF                       
+Q13308       PTK7       IgSF                       
+Q9NPR2       SEMA4B     IgSF                       
+O15394       NCAM2      IgSF                       
+P02788       LTF        Misc selected              
+Q14393       GAS6       Misc selected              
+P13591       NCAM1      IgSF                       
+Q9UPX0       IGSF9B     IgSF                       
+Q8TD84       DSCAML1    IgSF                       
+O60469       DSCAM      IgSF                       
+Q92854       SEMA4D     IgSF                       
+Q9P2J2       IGSF9      IgSF                       
+O14522       PTPRT      IgSF                       
+P28827       PTPRM      IgSF                       
+Q13214       SEMA3B     IgSF                       
+Q02763       TEK        IgSF                       
+Q15262       PTPRK      IgSF                       
+Q8IWK6       ADGRA3     IgSF                       
+Q92729       PTPRU      IgSF                       
+Q99985       SEMA3C     IgSF                       
+P17948       FLT1       IgSF                       
+P35590       TIE1       IgSF                       
+Q96PE1       ADGRA2     IgSF                       
+O95428       PAPLN      IgSF                       
+O95025       SEMA3D     IgSF                       
+P35968       KDR        IgSF                       
+Q9BZZ2       SIGLEC1    IgSF                       
+Q86VR7       VSIG10L    IgSF                       
+O15041       SEMA3E     IgSF                       
+P35916       FLT4       IgSF                       
+Q14563       SEMA3A     IgSF                       
+Q99466       NOTCH4     NOTCHSF                    
+Q96JA1       LRIG1      IgSF                       
+Q9NS98       SEMA3G     IgSF                       
+O94898       LRIG2      IgSF                       
+Q13275       SEMA3F     IgSF                       
+Q9UM47       NOTCH3     NOTCHSF                    
+Q6UXM1       LRIG3      IgSF                       
+Q9UMF0       ICAM5      IgSF                       
+Q04721       NOTCH2     NOTCHSF                    
+Q9P2B2       PTGFRN     IgSF                       
+P46531       NOTCH1     NOTCHSF                    
+P48357       LEPR       IgSF                       
+Q6MZW2       FSTL4      IgSF                       
+Q9BWV1       BOC        IgSF                       
+Q8N475       FSTL5      IgSF                       
+Q9UM47       NOTCH3     NOTCHSF                    
+Q8N9C0       IGSF22     IgSF                       
+Q96RD9       FCRL5      IgSF                       
+Q9HCK4       ROBO2      IgSF                       
+Q04721       NOTCH2     NOTCHSF                    
+O60469       DSCAM      IgSF                       
+A1KZ92       PXDNL      IgSF                       
+Q8TD84       DSCAML1    IgSF                       
+Q92626       PXDN       IgSF                       
+Q96MS0       ROBO3      IgSF                       
+Q9Y6N7       ROBO1      IgSF                       
+Q9BZZ2       SIGLEC1    IgSF                       
+Q58EX2       SDK2       IgSF                       
+Q7Z553       MDGA2      IgSF                       
+P46531       NOTCH1     NOTCHSF                    
+Q8NFP4       MDGA1      IgSF                       
+Q2VWP7       PRTG       IgSF                       
+Q8TDY8       IGDCC4     IgSF                       
+Q93033       CD101      IgSF                       
+Q4KMG0       CDON       IgSF                       
+Q13591       SEMA5A     IgSF                       
+Q7Z5N4       SDK1       IgSF                       
+Q9UMZ3       PTPRQ      IgSF                       
+Q9UMZ3       PTPRQ      IgSF                       
+Q12860       CNTN1      IgSF                       
+Q6WRI0       IGSF10     IgSF                       
+Q9NR99       MXRA5      IgSF                       
+Q9UQ52       CNTN6      IgSF                       
+Q02246       CNTN2      IgSF                       
+Q8IWV2       CNTN4      IgSF                       
+Q9P232       CNTN3      IgSF                       
+Q8IZF2       ADGRF5     IgSF                       
+Q6WRI0       IGSF10     IgSF                       
+Q9P283       SEMA5B     IgSF                       
+Q7Z5N4       SDK1       IgSF                       
+O60500       NPHS1      IgSF                       
+P78504       JAG1       NOTCHSF                    
+Q58EX2       SDK2       IgSF                       
+O94779       CNTN5      IgSF                       
+Q9Y219       JAG2       NOTCHSF                    
+O00533       CHL1       IgSF                       
+P43146       DCC        IgSF                       
+Q92859       NEO1       IgSF                       
+P32004       L1CAM      IgSF                       
+O75054       IGSF3      IgSF                       
+Q92823       NRCAM      IgSF                       
+Q9NR99       MXRA5      IgSF                       
+O94856       NFASC      IgSF                       
+P10586       PTPRF      IgSF                       
+P23468       PTPRD      IgSF                       
+Q13332       PTPRS      IgSF                       
+O95428       PAPLN      IgSF                       
+Q99466       NOTCH4     NOTCHSF                    
+A1KZ92       PXDNL      IgSF                       
+Q92626       PXDN       IgSF                       
+Q8TD84       DSCAML1    IgSF                       
+O60469       DSCAM      IgSF                       
+Q9UM47       NOTCH3     NOTCHSF                    
+Q9BZZ2       SIGLEC1    IgSF                       
+Q04721       NOTCH2     NOTCHSF                    
+P46531       NOTCH1     NOTCHSF                    
+Q58EX2       SDK2       IgSF                       
+Q9UMZ3       PTPRQ      IgSF                       
+Q7Z5N4       SDK1       IgSF                       
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
