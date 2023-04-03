@@ -12,11 +12,11 @@ The file contains the PDB and chain information of 831 pairs of domain-domain in
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 The benchmark datasets of an experimentally-derived human interactome of cell surface proteins are listed as follows:
 HmSurfaceInteractome_Info.dat
-This file provide the detailed information for all human cell surface proteins in the benchmark
+This file provides the detailed information for all human cell surface proteins in the benchmark
 HmSurfaceInteractome_PPI.dat
-This file provide the detailed information for experimentally identified interactions among all human cell surface proteins in the benchmark
+This file provides the detailed information for experimentally identified interactions among all human cell surface proteins in the benchmark
 HmSurfaceInteractome_fasta.dat
-This file provide the fasta sequences for all human cell surface proteins in the benchmark
+This file provides the fasta sequences for all human cell surface proteins in the benchmark
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -37,7 +37,7 @@ The source codes in sub_RandForest.f is the subroutine for the random forest cla
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 The outputs from our machine-learning-based prediction program are listed as follows:
-CElegantIgPPI_MLtest_Result.dat give the predicted probability for all 1081 possible interactions among 46 cell surface proteins in C. elegans.
+CElegantIgPPI_MLtest_Result.dat gives the predicted probability for all 1081 possible interactions among 46 cell surface proteins in C. elegans.
 CElegantIgPPI_MLtest_Result_ranked.dat contains all 1081 possible interactions among 46 cell surface proteins in C. elegans ranked by their overall predicted probability.
 CElegansIgPPI_MLtestResult_Ranked.xlsx is the Excel format file of all 1081 possible interactions among 46 cell surface proteins in C. elegans ranked by their overall predicted probability.
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
