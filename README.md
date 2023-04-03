@@ -28,11 +28,11 @@ CElegantsIgPPI_Profile_Final.dat contains the profiles of ranked alignment score
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 The source codes that uses the multiple machine-learning algorithms to predict the interactions of cell surface proteins in C. elegans are in the Fortran77 format. They are listed as follows:
-The source codes in CElegantsIgPPI_MLtest_main.f is the main program for machine-learning-based prediction using the datasets listed above as inputs.
-The source codes in sub_BP_learn.f is the subroutine for the back-propagation neural network training process.
-The source codes in sub_BP_recall.f is the subroutine for the back-propagation testing after neural network training.
-The source codes in sub_SVM.f is the subroutine for the support vector machine classification process.
-The source codes in sub_RandForest.f is the subroutine for the random forest classification process.
+The source codes in CElegantsIgPPI_MLtest_main.f are the main program for machine-learning-based prediction using the datasets listed above as inputs.
+The source codes in sub_BP_learn.f are the subroutine for the back-propagation neural network training process.
+The source codes in sub_BP_recall.f are the subroutine for the back-propagation testing after neural network training.
+The source codes in sub_SVM.f are the subroutine for the support vector machine classification process.
+The source codes in sub_RandForest.f are the subroutine for the random forest classification process.
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
